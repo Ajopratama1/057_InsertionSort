@@ -32,6 +32,7 @@ void insertionSort()
 
     int i,  temp, j;
 
+
     for(i = 1; i <= n - 1; i++) { //step 1
         temp = arr[1]; // step 2
         j = i - 1; // step 3
